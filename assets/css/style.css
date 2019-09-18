@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700&display=swap');
+
+
+
+/*----------------------------------Colors */
+.navbar {
+    background-color: rgb(224, 224, 224);
+}
+
+/*----------------------------------diffrent paddings/margins/text */
+.row-table {
+    display: table;
+}
+
+/*----------------------------------Heading */
+
+.image-background {
+    background: url(../images/feet-wide.png);
+}
+
+/*----------------------------------Hover effects */
+
+
+/*----------------------------------Footer */
+
+
+/*----------------------------------Home */
+
+
+/*----------------------------------About */
+
+
+/*----------------------------------Treatments */
+
+
+/*----------------------------------contact info */
+
+
+/*----------------------------------Media queries */
